@@ -27,15 +27,17 @@ Go to the project directory
 cd set
 ```
 
-Install the dependencies
-```bash
-pip install -r requirements.txt
-```
 
 Set up Virtual Environment (optional but will help with dependency conflicts)
 ```bash
 python -m venv env
 source env/bin/activate  # On Windows, use `env\Scripts\activate`
+```
+
+
+Install the dependencies
+```bash
+pip install -r requirements.txt
 ```
 
 Train the models
