@@ -1,7 +1,7 @@
 
 # set solver
 
-flask app that uses computer vision and tensorflow keras models to identify and show you all of the "sets" in a photo of set cards.
+flask app that uses computer vision and tensorflow keras models to identify and display all of the "sets" in a photo of set cards.
 
 ## Features
 - Detect and classify individual Set game cards from images
