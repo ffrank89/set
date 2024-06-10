@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Image</title>
+</head>
+<body>
+    <h3>Upload Image</h3>
+    <form id="uploadForm" method="POST" action="/upload" enctype="multipart/form-data">
+        <input type="file" name="file" accept="image/png, image/jpeg" required>
+        <button type="submit">Upload Image</button>
+    </form>
+    
+    {% if filename %}
+    <h3>Uploaded Image</h3>
+    <img src="{{ url_for('static', filename='image/' ~ filename) }}" alt="Uploaded Image" style="margin-top: 10px;">
+    {% endif %}
+    
+    <div><br><span>{{filename}}</span></div>
+    <div>{{error_message}}</div>
+</body>
+</html>

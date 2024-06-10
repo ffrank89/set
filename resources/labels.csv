@@ -1,0 +1,236 @@
+image_path,shape,color,number,shading
+resources/deck/1.png, DIAMOND, RED, 1, OUTLINED
+resources/deck/2.png, DIAMOND, RED, 2, OUTLINED
+resources/deck/3.png, DIAMOND, RED, 3, OUTLINED
+resources/deck/4.png, OVAL, RED, 1, OUTLINED
+resources/deck/5.png, OVAL, RED, 2, OUTLINED
+resources/deck/6.png, OVAL, RED, 3, OUTLINED
+resources/deck/7.png, SQUIGGLE, RED, 1, OUTLINED
+resources/deck/8.png, SQUIGGLE, RED, 2, OUTLINED
+resources/deck/9.png, SQUIGGLE, RED, 3, OUTLINED
+resources/deck/10.png, DIAMOND, RED, 1, STRIPED
+resources/deck/11.png, DIAMOND, RED, 2, STRIPED
+resources/deck/12.png, DIAMOND, RED, 3, STRIPED
+resources/deck/13.png, OVAL, RED, 1, STRIPED
+resources/deck/14.png, OVAL, RED, 2, STRIPED
+resources/deck/15.png, OVAL, RED, 3, STRIPED
+resources/deck/16.png, SQUIGGLE, RED, 1, STRIPED
+resources/deck/17.png, SQUIGGLE, RED, 2, STRIPED
+resources/deck/18.png, SQUIGGLE, RED, 3, STRIPED
+resources/deck/19.png, DIAMOND, RED, 1, SOLID
+resources/deck/20.png, DIAMOND, RED, 2, SOLID
+resources/deck/21.png, DIAMOND, RED, 3, SOLID
+resources/deck/22.png, OVAL, RED, 1, SOLID
+resources/deck/23.png, OVAL, RED, 2, SOLID
+resources/deck/24.png, OVAL, RED, 3, SOLID
+resources/deck/25.png, SQUIGGLE, RED, 1, SOLID
+resources/deck/26.png, SQUIGGLE, RED, 2, SOLID
+resources/deck/27.png, SQUIGGLE, RED, 3, SOLID
+resources/deck/28.png, DIAMOND, GREEN, 1, OUTLINED
+resources/deck/29.png, DIAMOND, GREEN, 2, OUTLINED
+resources/deck/30.png, DIAMOND, GREEN, 3, OUTLINED
+resources/deck/31.png, OVAL, GREEN, 1, OUTLINED
+resources/deck/32.png, OVAL, GREEN, 2, OUTLINED
+resources/deck/33.png, OVAL, GREEN, 3, OUTLINED
+resources/deck/34.png, SQUIGGLE, GREEN, 1, OUTLINED
+resources/deck/35.png, SQUIGGLE, GREEN, 2, OUTLINED
+resources/deck/36.png, SQUIGGLE, GREEN, 3, OUTLINED
+resources/deck/37.png, DIAMOND, GREEN, 1, STRIPED
+resources/deck/38.png, DIAMOND, GREEN, 2, STRIPED
+resources/deck/39.png, DIAMOND, GREEN, 3, STRIPED
+resources/deck/40.png, OVAL, GREEN, 1, STRIPED
+resources/deck/41.png, OVAL, GREEN, 2, STRIPED
+resources/deck/42.png, OVAL, GREEN, 3, STRIPED
+resources/deck/43.png, SQUIGGLE, GREEN, 1, STRIPED
+resources/deck/44.png, SQUIGGLE, GREEN, 2, STRIPED
+resources/deck/45.png, SQUIGGLE, GREEN, 3, STRIPED
+resources/deck/46.png, DIAMOND, GREEN, 1, SOLID
+resources/deck/47.png, DIAMOND, GREEN, 2, SOLID
+resources/deck/48.png, DIAMOND, GREEN, 3, SOLID
+resources/deck/49.png, OVAL, GREEN, 1, SOLID
+resources/deck/50.png, OVAL, GREEN, 2, SOLID
+resources/deck/51.png, OVAL, GREEN, 3, SOLID
+resources/deck/52.png, SQUIGGLE, GREEN, 1, SOLID
+resources/deck/53.png, SQUIGGLE, GREEN, 2, SOLID
+resources/deck/54.png, SQUIGGLE, GREEN, 3, SOLID
+resources/deck/55.png, DIAMOND, PURPLE, 1, OUTLINED
+resources/deck/56.png, DIAMOND, PURPLE, 2, OUTLINED
+resources/deck/57.png, DIAMOND, PURPLE, 3, OUTLINED
+resources/deck/58.png, OVAL, PURPLE, 1, OUTLINED
+resources/deck/59.png, OVAL, PURPLE, 2, OUTLINED
+resources/deck/60.png, OVAL, PURPLE, 3, OUTLINED
+resources/deck/61.png, SQUIGGLE, PURPLE, 1, OUTLINED
+resources/deck/62.png, SQUIGGLE, PURPLE, 2, OUTLINED
+resources/deck/63.png, SQUIGGLE, PURPLE, 3, OUTLINED
+resources/deck/64.png, DIAMOND, PURPLE, 1, STRIPED
+resources/deck/65.png, DIAMOND, PURPLE, 2, STRIPED
+resources/deck/66.png, DIAMOND, PURPLE, 3, STRIPED
+resources/deck/67.png, OVAL, PURPLE, 1, STRIPED
+resources/deck/68.png, OVAL, PURPLE, 2, STRIPED
+resources/deck/69.png, OVAL, PURPLE, 3, STRIPED
+resources/deck/70.png, SQUIGGLE, PURPLE, 1, STRIPED
+resources/deck/71.png, SQUIGGLE, PURPLE, 2, STRIPED
+resources/deck/72.png, SQUIGGLE, PURPLE, 3, STRIPED
+resources/deck/73.png, DIAMOND, PURPLE, 1, SOLID
+resources/deck/74.png, DIAMOND, PURPLE, 2, SOLID
+resources/deck/75.png, DIAMOND, PURPLE, 3, SOLID
+resources/deck/76.png, OVAL, PURPLE, 1, SOLID
+resources/deck/77.png, OVAL, PURPLE, 2, SOLID
+resources/deck/78.png, OVAL, PURPLE, 3, SOLID
+resources/deck/79.png, SQUIGGLE, PURPLE, 1, SOLID
+resources/deck/80.png, SQUIGGLE, PURPLE, 2, SOLID
+resources/deck/81.png, SQUIGGLE, PURPLE, 3, SOLID
+resources/deck/striped-green-3-squiggle.jpg,SQUIGGLE,GREEN,3,STRIPED
+resources/deck/striped-purple-3-oval.jpg,OVAL,PURPLE,3,STRIPED
+resources/deck/striped-red-2-squiggle.jpg,SQUIGGLE,RED,2,STRIPED
+resources/deck/striped-green-3-oval.jpg,OVAL,GREEN,3,STRIPED
+resources/deck/striped-red-1-diamond.jpg,DIAMOND,RED,1,STRIPED
+resources/deck/outlined-green-2-squiggle.jpg,SQUIGGLE,GREEN,2,OUTLINED
+resources/deck/outlined-green-3-squiggle.jpg,SQUIGGLE,GREEN,3,OUTLINED
+resources/deck/solid-red-3-diamond.jpg,DIAMOND,RED,3,SOLID
+resources/deck/solid-purple-2-squiggle.jpg,SQUIGGLE,PURPLE,2,SOLID
+resources/deck/solid-purple-2-oval.jpg,OVAL,PURPLE,2,SOLID
+resources/deck/striped-red-3-oval.jpg,OVAL,RED,3,STRIPED
+resources/deck/outlined-purple-1-oval.jpg,OVAL,PURPLE,1,OUTLINED
+resources/deck/outlined-red-1-squiggle.jpg,SQUIGGLE,RED,1,OUTLINED
+resources/deck/solid-purple-3-oval.jpg,OVAL,PURPLE,3,SOLID
+resources/deck/solid-purple-1-diamond.jpg,DIAMOND,PURPLE,1,SOLID
+resources/deck/striped-green-2-diamond.jpg,DIAMOND,GREEN,2,STRIPED
+resources/deck/striped-green-1-diamond.jpg,DIAMOND,GREEN,1,STRIPED
+resources/deck/striped-purple-2-diamond.jpg,DIAMOND,PURPLE,2,STRIPED
+resources/deck/striped-red-2-squiggle.jpg,SQUIGGLE,RED,2,STRIPED
+resources/deck/outlined-red-1-oval.jpg,OVAL,RED,1,OUTLINED
+resources/deck/outlined-red-3-oval.jpg,OVAL,RED,3,OUTLINED
+resources/deck/striped-red-2-oval.jpg,OVAL,RED,2,STRIPED
+resources/deck/solid-red-3-squiggle.jpg,SQUIGGLE,RED,3,SOLID
+resources/deck/outlined-purple-2-oval.jpg,OVAL,PURPLE,2,OUTLINED
+resources/deck/striped-purple-1-oval.jpg,OVAL,PURPLE,1,STRIPED
+resources/deck/striped-green-1-diamond.jpg,DIAMOND,GREEN,1,STRIPED
+resources/deck/striped-purple-1-oval.jpg,OVAL,PURPLE,1,STRIPED
+resources/deck/striped-green-2-diamond.jpg,DIAMOND,GREEN,2,STRIPED
+resources/deck/outlined-red-1-oval.jpg,OVAL,RED,1,OUTLINED
+resources/deck/outlined-purple-2-oval.jpg,OVAL,PURPLE,2,OUTLINED
+resources/deck/solid-purple-1-diamond.jpg,DIAMOND,PURPLE,1,SOLID
+resources/deck/solid-red-3-squiggle.jpg,SQUIGGLE,RED,3,SOLID
+resources/deck/striped-purple-2-diamond.jpg,DIAMOND,PURPLE,2,STRIPED
+resources/deck/solid-purple-3-oval.jpg,OVAL,PURPLE,3,SOLID
+resources/deck/striped-red-2-squiggle.jpg,SQUIGGLE,RED,2,STRIPED
+resources/deck/striped-red-2-oval.jpg,OVAL,RED,2,STRIPED
+resources/deck/striped-green-1-diamond.jpg,DIAMOND,GREEN,1,STRIPED
+resources/deck/striped-green-2-diamond.jpg,DIAMOND,GREEN,2,STRIPED
+resources/deck/solid-purple-1-diamond.jpg,DIAMOND,PURPLE,1,SOLID
+resources/deck/solid-purple-3-oval.jpg,OVAL,PURPLE,3,SOLID
+resources/deck/striped-purple-2-diamond.jpg,DIAMOND,PURPLE,2,STRIPED
+resources/deck/striped-red-2-oval.jpg,OVAL,RED,2,STRIPED
+resources/deck/striped-purple-1-oval.jpg,OVAL,PURPLE,1,STRIPED
+resources/deck/solid-red-3-squiggle.jpg,SQUIGGLE,RED,3,SOLID
+resources/deck/solid-red-3-squiggle.jpg,SQUIGGLE,RED,3,SOLID
+resources/deck/solid-green-2-oval.jpg,OVAL,GREEN,2,SOLID
+resources/deck/solid-red-2-diamond.jpg,DIAMOND,RED,2,SOLID
+resources/deck/solid-green-1-diamond.jpg,DIAMOND,GREEN,1,SOLID
+resources/deck/solid-red-1-squiggle.jpg,SQUIGGLE,RED,1,SOLID
+resources/deck/striped-purple-3-diamond.jpg,DIAMOND,PURPLE,3,STRIPED
+resources/deck/solid-red-3-squiggle.jpg,SQUIGGLE,RED,3,SOLID
+resources/deck/outlined-green-3-diamond.jpg,DIAMOND,GREEN,3,OUTLINED
+resources/deck/solid-purple-2-oval.jpg,OVAL,PURPLE,2,SOLID
+resources/deck/solid-green-1-oval.jpg,OVAL,GREEN,1,SOLID
+resources/deck/solid-red-3-oval.jpg,OVAL,RED,3,SOLID
+resources/deck/striped-purple-3-squiggle.jpg,SQUIGGLE,PURPLE,3,STRIPED
+resources/deck/outlined-purple-1-squiggle.jpg,SQUIGGLE,PURPLE,1,OUTLINED
+resources/deck/striped-green-3-squiggle.jpg,SQUIGGLE,GREEN,3,STRIPED
+resources/deck/striped-purple-3-oval.jpg,OVAL,PURPLE,3,STRIPED
+resources/deck/striped-red-2-squiggle.jpg,SQUIGGLE,RED,2,STRIPED
+resources/deck/striped-green-3-oval.jpg,OVAL,GREEN,3,STRIPED
+resources/deck/striped-red-1-diamond.jpg,DIAMOND,RED,1,STRIPED
+resources/deck/outlined-green-2-squiggle.jpg,SQUIGGLE,GREEN,2,OUTLINED
+resources/deck/solid-red-3-diamond.jpg,DIAMOND,RED,3,SOLID
+resources/deck/solid-purple-2-squiggle.jpg,SQUIGGLE,PURPLE,2,SOLID
+resources/deck/solid-purple-2-oval.jpg,OVAL,PURPLE,2,SOLID
+resources/deck/striped-red-3-oval.jpg,OVAL,RED,3,STRIPED
+resources/deck/outlined-purple-1-oval.jpg,OVAL,PURPLE,1,OUTLINED
+resources/deck/outlined-red-1-squiggle.jpg,SQUIGGLE,RED,1,OUTLINED
+resources/deck/striped-red-2-oval.jpg,OVAL,RED,2,STRIPED
+resources/deck/striped-red-2-squiggle.jpg,SQUIGGLE,RED,2,STRIPED
+resources/deck/solid-purple-3-oval.jpg,OVAL,PURPLE,3,SOLID
+resources/deck/solid-red-3-squiggle.jpg,SQUIGGLE,RED,3,SOLID
+resources/deck/striped-purple-2-diamond.jpg,DIAMOND,PURPLE,2,STRIPED
+resources/deck/solid-purple-1-diamond.jpg,DIAMOND,PURPLE,1,SOLID
+resources/deck/outlined-purple-2-oval.jpg,OVAL,PURPLE,2,OUTLINED
+resources/deck/outlined-purple-2-diamond.jpg,DIAMOND,PURPLE,2,OUTLINED
+resources/deck/outlined-red-1-oval.jpg,OVAL,RED,1,OUTLINED
+resources/deck/striped-green-2-diamond.jpg,DIAMOND,GREEN,2,STRIPED
+resources/deck/striped-purple-1-oval.jpg,OVAL,PURPLE,1,STRIPED
+resources/deck/outlined-red-3-oval.jpg,OVAL,RED,3,OUTLINED
+resources/deck/striped-green-1-diamond.jpg,DIAMOND,GREEN,1,STRIPED
+resources/deck/solid-red-3-squiggle.jpg,SQUIGGLE,RED,3,SOLID
+resources/deck/outlined-purple-3-diamond.jpg,DIAMOND,PURPLE,3,OUTLINED
+resources/deck/outlined-red-3-squiggle.jpg,SQUIGGLE,RED,3,OUTLINED
+resources/deck/outlined-green-1-diamond.jpg,DIAMOND,GREEN,1,OUTLINED
+resources/deck/outlined-red-1-oval.jpg,OVAL,RED,1,OUTLINED
+resources/deck/outlined-purple-3-diamond.jpg,DIAMOND,PURPLE,3,OUTLINED
+resources/deck/solid-green-1-diamond.jpg,DIAMOND,GREEN,1,SOLID
+resources/deck/striped-purple-1-diamond.jpg,DIAMOND,PURPLE,1,STRIPED
+resources/deck/solid-purple-2-diamond.jpg,DIAMOND,PURPLE,2,SOLID
+resources/deck/striped-red-2-oval.jpg,OVAL,RED,2,STRIPED
+resources/deck/striped-green-2-oval.jpg,OVAL,GREEN,2,STRIPED
+resources/deck/striped-green-2-diamond.jpg,DIAMOND,GREEN,2,STRIPED
+resources/deck/outlined-green-2-squiggle.jpg,SQUIGGLE,GREEN,2,OUTLINED
+resources/deck/striped-red-3-squiggle.jpg,SQUIGGLE,RED,3,STRIPED
+resources/deck/striped-green-3-oval.jpg,OVAL,GREEN,3,STRIPED
+resources/deck/solid-purple-3-diamond.jpg,DIAMOND,PURPLE,3,SOLID
+resources/deck/striped-green-1-diamond.jpg,DIAMOND,GREEN,1,STRIPED
+resources/deck/solid-purple-1-squiggle.jpg,SQUIGGLE,PURPLE,1,SOLID
+resources/deck/striped-red-1-diamond.jpg,DIAMOND,RED,1,STRIPED
+resources/deck/striped-green-2-oval.jpg,OVAL,GREEN,2,STRIPED
+resources/deck/striped-green-2-diamond.jpg,DIAMOND,GREEN,2,STRIPED
+resources/deck/outlined-green-2-squiggle.jpg,SQUIGGLE,GREEN,2,OUTLINED
+resources/deck/striped-red-3-oval.jpg,OVAL,RED,3,STRIPED
+resources/deck/striped-green-3-oval.jpg,OVAL,GREEN,3,STRIPED
+resources/deck/solid-purple-3-diamond.jpg,DIAMOND,PURPLE,3,SOLID
+resources/deck/striped-green-1-diamond.jpg,DIAMOND,GREEN,1,STRIPED
+resources/deck/solid-purple-1-squiggle.jpg,SQUIGGLE,PURPLE,1,SOLID
+resources/deck/striped-red-1-diamond.jpg,DIAMOND,RED,1,STRIPED
+resources/deck/outlined-red-1-squiggle.jpg,SQUIGGLE,RED,1,OUTLINED
+resources/deck/outlined-purple-2-oval.jpg,OVAL,PURPLE,2,OUTLINED
+resources/deck/outlined-red-2-squiggle.jpg,SQUIGGLE,RED,2,OUTLINED
+resources/deck/outlined-purple-3-oval.jpg,OVAL,PURPLE,3,OUTLINED
+resources/deck/outlined-purple-1-oval.jpg,OVAL,PURPLE,1,OUTLINED
+resources/deck/outlined-red-1-squiggle.jpg,SQUIGGLE,RED,1,OUTLINED
+resources/deck/solid-red-1-oval.jpg,OVAL,RED,1,SOLID
+resources/deck/outlined-red-3-diamond.jpg,DIAMOND,RED,3,OUTLINED
+resources/deck/striped-purple-3-oval.jpg,OVAL,PURPLE,3,STRIPED
+resources/deck/striped-green-1-oval.jpg,OVAL,GREEN,1,STRIPED
+resources/deck/solid-purple-2-oval.jpg,OVAL,PURPLE,2,SOLID
+resources/deck/outlined-red-1-oval.jpg,OVAL,RED,1,OUTLINED
+resources/deck/outlined-green-2-diamond.jpg,DIAMOND,GREEN,2,OUTLINED
+resources/deck/striped-red-3-squiggle.jpg,SQUIGGLE,RED,3,STRIPED
+resources/deck/solid-green-2-squiggle.jpg,SQUIGGLE,GREEN,2,SOLID
+resources/deck/outlined-red-1-squiggle.jpg,SQUIGGLE,RED,1,OUTLINED
+resources/deck/outlined-purple-1-oval.jpg,OVAL,PURPLE,1,OUTLINED
+resources/deck/striped-purple-3-diamond.jpg,DIAMOND,PURPLE,3,STRIPED
+resources/deck/outlined-red-3-diamond.jpg,DIAMOND,RED,3,OUTLINED
+resources/deck/solid-red-1-oval.jpg,OVAL,RED,1,SOLID
+resources/deck/outlined-red-3-squiggle.jpg,SQUIGGLE,RED,3,OUTLINED
+resources/deck/outlined-green-2-diamond.jpg,DIAMOND,GREEN,2,OUTLINED
+resources/deck/solid-purple-2-diamond.jpg,DIAMOND,PURPLE,2,SOLID
+resources/deck/solid-red-3-oval.jpg,OVAL,RED,3,SOLID
+resources/deck/striped-purple-3-squiggle.jpg,SQUIGGLE,PURPLE,3,STRIPED
+resources/deck/outlined-purple-3-oval.jpg,OVAL,PURPLE,3,OUTLINED
+resources/deck/outlined-purple-3-squiggle.jpg,SQUIGGLE,PURPLE,3,OUTLINED
+resources/deck/outlined-purple-2-diamond.jpg,DIAMOND,PURPLE,2,OUTLINED
+resources/deck/outlined-red-2-oval.jpg,OVAL,RED,2,OUTLINED
+resources/deck/solid-green-1-squiggle.jpg,SQUIGGLE,GREEN,1,SOLID
+resources/deck/striped-red-1-squiggle.jpg,SQUIGGLE,RED,1,STRIPED
+resources/deck/striped-purple-3-squiggle.jpg,SQUIGGLE,PURPLE,3,STRIPED
+resources/deck/striped-red-2-oval.jpg,OVAL,RED,2,STRIPED
+resources/deck/striped-red-2-squiggle.jpg,SQUIGGLE,RED,2,STRIPED
+resources/deck/outlined-green-3-squiggle.jpg,SQUIGGLE,GREEN,3,OUTLINED
+resources/deck/striped-green-2-squiggle.jpg,SQUIGGLE,GREEN,2,STRIPED
+resources/deck/outlined-green-1-diamond.jpg,DIAMOND,GREEN,1,OUTLINED
+resources/deck/striped-red-3-diamond.jpg,DIAMOND,RED,3,STRIPED
+resources/deck/solid-green-3-diamond.jpg,DIAMOND,GREEN,3,SOLID
+resources/deck/solid-red-3-diamond.jpg,DIAMOND,RED,3,SOLID
+resources/deck/solid-green-1-diamond.jpg,DIAMOND,GREEN,1,SOLID
+resources/deck/solid-green-3-squiggle.jpg,SQUIGGLE,GREEN,3,SOLID
+resources/deck/solid-purple-1-diamond.jpg,DIAMOND,PURPLE,1,SOLID
+resources/deck/solid-green-2-oval.jpg,OVAL,GREEN,2,SOLID
