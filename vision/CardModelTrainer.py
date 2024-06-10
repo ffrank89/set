@@ -228,6 +228,6 @@ class CardModelTrainer:
         shape_images, shape_labels, color_histograms, color_labels, number_images, number_labels, shading_images, shading_labels = self.load_dataset()
         
         # Train individual models for each attribute
-        # self.train_shape_model(images, shape_labels)
-        # self.train_shading_model(images, shading_labels)
+        self.train_shape_model(shape_images, shape_labels)
+        self.train_shading_model(shading_images, shading_labels)
         self.train_color_model(color_histograms, color_labels)

@@ -50,13 +50,6 @@ def upload():
         if file and allowed_file(file.filename):
             filename = secure_filename(file.filename)
             file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
-
-            #modifying the image (resizing etc) makes the rectangles weird! why! 
-            #I dont understand because shouldnt it treat the modified image just like any other??
-            #ALSO the classification seems to be WORSE when the image is in its original size!!!
-
-
-
             # Open the uploaded image file
             img = Image.open(file)
             # Resize the image
