@@ -1,7 +1,7 @@
 
 # set solver
 
-flask app that uses computer vision and tensorflow keras models to identify and show you all of the "sets" in a photo of set cards.
+flask app that uses computer vision and tensorflow keras models to identify and display all of the "sets" in a photo of set cards.
 
 ## Features
 - Detect and classify individual Set game cards from images
@@ -27,15 +27,17 @@ Go to the project directory
 cd set
 ```
 
-Install the dependencies
-```bash
-pip install -r requirements.txt
-```
 
 Set up Virtual Environment (optional but will help with dependency conflicts)
 ```bash
 python -m venv env
 source env/bin/activate  # On Windows, use `env\Scripts\activate`
+```
+
+
+Install the dependencies
+```bash
+pip install -r requirements.txt
 ```
 
 Train the models
