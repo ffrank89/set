@@ -105,9 +105,5 @@ def getHighlightedBoard(file_path):
     return highlighted_sets
 
 if __name__ == '__main__':
-    context = ('cert.pem', 'key.pem')
-    os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
-    #app.run(host='0.0.0.0', port=5050, debug=True)
-    app.run(debug=False, host='0.0.0.0', ssl_context=context)
-
-    # app.run(debug=True)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
