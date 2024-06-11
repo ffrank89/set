@@ -1,7 +1,68 @@
-Flask
-opencv-python
-pandas
-numpy
-scikit-learn
-tensorflow
-Pillow
+absl-py==2.1.0
+astunparse==1.6.3
+blinker @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/blinker_1699238202041/work
+Bottleneck @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e7wwl52wn1/croot/bottleneck_1709075893359/work
+certifi==2024.2.2
+charset-normalizer==3.3.2
+click @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/click_1699237822453/work
+contourpy==1.2.1
+cycler==0.12.1
+Flask @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b6zka5i2cn/croot/flask_1716545886197/work
+flatbuffers==24.3.25
+fonttools==4.51.0
+gast==0.5.4
+google-pasta==0.2.0
+grpcio==1.64.0
+h5py==3.11.0
+idna==3.7
+imageio==2.34.1
+imgaug==0.4.0
+itsdangerous @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_00jdi1gu23/croot/itsdangerous_1716533346702/work
+Jinja2 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_44yzu12j7f/croot/jinja2_1716993410427/work
+joblib @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f75pzkv6n1/croot/joblib_1713976769255/work
+keras==3.3.3
+kiwisolver==1.4.5
+lazy_loader==0.4
+libclang==18.1.1
+Markdown==3.6
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+matplotlib==3.9.0
+mdurl==0.1.2
+ml-dtypes==0.3.2
+namex==0.0.8
+networkx==3.3
+numexpr @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/numexpr_1699237935415/work
+numpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a51i_mbs7m/croot/numpy_and_numpy_base_1708638620867/work/dist/numpy-1.26.4-cp312-cp312-macosx_11_0_arm64.whl#sha256=37afb6b734a197702d848df93bd67c10b52f6467d56e518950d84b6b1c949d27
+opencv-python==4.9.0.80
+opt-einsum==3.3.0
+optree==0.11.0
+packaging==24.0
+pandas @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_988rx6x546/croot/pandas_1709590494976/work/dist/pandas-2.2.1-cp312-cp312-macosx_11_0_arm64.whl#sha256=32bac561454fa7751bb78a7886ff57cc7dab7dbaf43aea898c4f3a260743b231
+pillow==10.3.0
+protobuf==4.25.3
+Pygments==2.18.0
+pyparsing==3.1.2
+python-dateutil @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_6e_fc8xema/croot/python-dateutil_1715108793034/work
+pytz @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a4b76c83ik/croot/pytz_1713974318928/work
+requests==2.32.1
+rich==13.7.1
+scikit-image==0.23.2
+scikit-learn @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_6f_fxtrklc/croot/scikit-learn_1714164747354/work
+scipy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_6f17pyifw3/croot/scipy_1714069789658/work/dist/scipy-1.13.0-cp312-cp312-macosx_11_0_arm64.whl#sha256=431f79321de6f5cbb09a4544ac8f8accbe05370813bfa1f04a999f0cd7a04646
+setuptools==69.5.1
+shapely==2.0.4
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tensorboard==2.16.2
+tensorboard-data-server==0.7.2
+tensorflow==2.16.1
+termcolor==2.4.0
+tf==1.0.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tifffile==2024.5.10
+typing_extensions==4.11.0
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+urllib3==2.2.1
+Werkzeug @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5bnbxlhunm/croot/werkzeug_1716533322814/work
+wheel==0.43.0
+wrapt==1.16.0
